@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans';
+}
+.header{
+    /* background-image: url(Style/banner/banner1.png); */
+    
+    width: 1600px;
+height: 808px;
+    background-repeat: no-repeat;   
+    display: flex; 
+    background-size: cover;  
+    
+}
+.text{
+    margin-right: 0;
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+    font-size: 65px;
+    text-align: right;
+    
+}
+.description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    text-align: right;
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+}
+.Contact{
+    position: absolute;
+width: 109px;
+height: 23px;
+left: 1236px;
+top: 599px;
+text-align: right;
+
+color: #e21414;
+}
+/* .second{
+    display: flex;
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+} */
+.second heading{
+    font-weight: 700;
+font-size: 40px;
+    text-align: right;
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+}
+.second_description{
+    text-align: right;
+    font-weight: 5px;
+font-size: 20px;
+width: 288px;
+height: 94px;
+    position: absolute;
+left: 899px;
+top: 1296px;
+
+}
+.main heading{
+    
+    display: flex;
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+padding-left: 230px;
+padding-right: 230px;
+}
+.text1{
+    text-align: center;
+}
+.list{
+   display: flex;
+}
+.picture gradient{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2222.26px;
+background-image: url(Style/watch.png);
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+}
+.watch des{
+    text-align: justify;
+    width: 459px;
+height: 182px;
+font-weight: 700;
+font-size: 40px;
+}
